@@ -5,6 +5,7 @@ public abstract class Test {
 		System.out.println("projet ausy git 1 version 1");
 		System.out.println("projet ausy git 1 version 2");
 		System.out.println("projet ausy git 1 version 3");
+		System.out.println("projet ausy git 1 version 4");
 	}
 
 }
